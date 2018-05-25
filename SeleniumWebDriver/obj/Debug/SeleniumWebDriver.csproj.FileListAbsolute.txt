@@ -1,0 +1,42 @@
+C:\Users\Yoga\OneDrive\VSProjects\SeleniumWebDriver\SeleniumWebDriver\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Yoga\OneDrive\VSProjects\SeleniumWebDriver\SeleniumWebDriver\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Yoga\OneDrive\VSProjects\SeleniumWebDriver\SeleniumWebDriver\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Yoga\OneDrive\VSProjects\SeleniumWebDriver\SeleniumWebDriver\bin\Debug\IEDriverServer.exe
+C:\Users\Yoga\OneDrive\VSProjects\SeleniumWebDriver\SeleniumWebDriver\bin\Debug\SeleniumWebDriver.dll
+C:\Users\Yoga\OneDrive\VSProjects\SeleniumWebDriver\SeleniumWebDriver\bin\Debug\SeleniumWebDriver.pdb
+C:\Users\Yoga\OneDrive\VSProjects\SeleniumWebDriver\SeleniumWebDriver\bin\Debug\GoogleUIBase.dll
+C:\Users\Yoga\OneDrive\VSProjects\SeleniumWebDriver\SeleniumWebDriver\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Yoga\OneDrive\VSProjects\SeleniumWebDriver\SeleniumWebDriver\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Yoga\OneDrive\VSProjects\SeleniumWebDriver\SeleniumWebDriver\bin\Debug\TestingFramework.dll
+C:\Users\Yoga\OneDrive\VSProjects\SeleniumWebDriver\SeleniumWebDriver\bin\Debug\WebDriver.dll
+C:\Users\Yoga\OneDrive\VSProjects\SeleniumWebDriver\SeleniumWebDriver\bin\Debug\WebDriver.Support.dll
+C:\Users\Yoga\OneDrive\VSProjects\SeleniumWebDriver\SeleniumWebDriver\bin\Debug\GoogleUIBase.pdb
+C:\Users\Yoga\OneDrive\VSProjects\SeleniumWebDriver\SeleniumWebDriver\bin\Debug\TestingFramework.pdb
+C:\Users\Yoga\OneDrive\VSProjects\SeleniumWebDriver\SeleniumWebDriver\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Yoga\OneDrive\VSProjects\SeleniumWebDriver\SeleniumWebDriver\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Yoga\OneDrive\VSProjects\SeleniumWebDriver\SeleniumWebDriver\bin\Debug\WebDriver.xml
+C:\Users\Yoga\OneDrive\VSProjects\SeleniumWebDriver\SeleniumWebDriver\bin\Debug\WebDriver.Support.xml
+C:\Users\Yoga\OneDrive\VSProjects\SeleniumWebDriver\SeleniumWebDriver\obj\Debug\SeleniumWebDriver.csprojResolveAssemblyReference.cache
+C:\Users\Yoga\OneDrive\VSProjects\SeleniumWebDriver\SeleniumWebDriver\obj\Debug\SeleniumWebDriver.csproj.CoreCompileInputs.cache
+C:\Users\Yoga\OneDrive\VSProjects\SeleniumWebDriver\SeleniumWebDriver\obj\Debug\SeleniumWebDriver.dll
+C:\Users\Yoga\OneDrive\VSProjects\SeleniumWebDriver\SeleniumWebDriver\obj\Debug\SeleniumWebDriver.pdb
+C:\Users\Yoga\Documents\Visual Studio 2017\Projects\SeleniumWebDriver\SeleniumWebDriver\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Yoga\Documents\Visual Studio 2017\Projects\SeleniumWebDriver\SeleniumWebDriver\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Yoga\Documents\Visual Studio 2017\Projects\SeleniumWebDriver\SeleniumWebDriver\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Yoga\Documents\Visual Studio 2017\Projects\SeleniumWebDriver\SeleniumWebDriver\bin\Debug\IEDriverServer.exe
+C:\Users\Yoga\Documents\Visual Studio 2017\Projects\SeleniumWebDriver\SeleniumWebDriver\bin\Debug\SeleniumWebDriver.dll
+C:\Users\Yoga\Documents\Visual Studio 2017\Projects\SeleniumWebDriver\SeleniumWebDriver\bin\Debug\SeleniumWebDriver.pdb
+C:\Users\Yoga\Documents\Visual Studio 2017\Projects\SeleniumWebDriver\SeleniumWebDriver\bin\Debug\GoogleUIBase.dll
+C:\Users\Yoga\Documents\Visual Studio 2017\Projects\SeleniumWebDriver\SeleniumWebDriver\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Yoga\Documents\Visual Studio 2017\Projects\SeleniumWebDriver\SeleniumWebDriver\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Yoga\Documents\Visual Studio 2017\Projects\SeleniumWebDriver\SeleniumWebDriver\bin\Debug\TestingFramework.dll
+C:\Users\Yoga\Documents\Visual Studio 2017\Projects\SeleniumWebDriver\SeleniumWebDriver\bin\Debug\WebDriver.dll
+C:\Users\Yoga\Documents\Visual Studio 2017\Projects\SeleniumWebDriver\SeleniumWebDriver\bin\Debug\GoogleUIBase.pdb
+C:\Users\Yoga\Documents\Visual Studio 2017\Projects\SeleniumWebDriver\SeleniumWebDriver\bin\Debug\TestingFramework.pdb
+C:\Users\Yoga\Documents\Visual Studio 2017\Projects\SeleniumWebDriver\SeleniumWebDriver\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Yoga\Documents\Visual Studio 2017\Projects\SeleniumWebDriver\SeleniumWebDriver\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Yoga\Documents\Visual Studio 2017\Projects\SeleniumWebDriver\SeleniumWebDriver\bin\Debug\WebDriver.xml
+C:\Users\Yoga\Documents\Visual Studio 2017\Projects\SeleniumWebDriver\SeleniumWebDriver\obj\Debug\SeleniumWebDriver.csprojResolveAssemblyReference.cache
+C:\Users\Yoga\Documents\Visual Studio 2017\Projects\SeleniumWebDriver\SeleniumWebDriver\obj\Debug\SeleniumWebDriver.csproj.CoreCompileInputs.cache
+C:\Users\Yoga\Documents\Visual Studio 2017\Projects\SeleniumWebDriver\SeleniumWebDriver\obj\Debug\SeleniumWebDriver.dll
+C:\Users\Yoga\Documents\Visual Studio 2017\Projects\SeleniumWebDriver\SeleniumWebDriver\obj\Debug\SeleniumWebDriver.pdb
