@@ -22,6 +22,14 @@ namespace GoogleUIBase.Pages
             }
         }
 
+        public IWebElement SearchCorrectionPhrase
+        {
+            get
+            {
+                return this.Driver.FindElement(By.Id("fprsl"));
+            }
+        }
+
         public IWebElement GetResultByTitleContains(string textContains)
         {
             var allResults = this.Driver.FindElements(By.XPath("//h3/a"));

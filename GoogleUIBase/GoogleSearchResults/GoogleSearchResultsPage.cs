@@ -1,12 +1,13 @@
-﻿using GoogleUIBase.Base;
+﻿using System;
+using GoogleUIBase.Base;
 using OpenQA.Selenium;
 using TestingFramework;
 
 namespace GoogleUIBase.Pages
 {
-    public partial class GoogleSearchResultsPage : IPage
+    public partial class GoogleSearchResultsPage : BaseGooglePage, IPage
     {
-        public string Url { get => "/search"; }
+        public string Url { get => this.BaseUri.AbsoluteUri + "search"; }
 
         public IWebDriver Driver { get; set; }
 
@@ -21,7 +22,7 @@ namespace GoogleUIBase.Pages
 
         public void Navigate()
         {
-            this.Driver.Navigate().GoToUrl(BaseData.BaseUrl + this.Url);
+            this.Driver.Navigate().GoToUrl(this.BaseUri.AbsoluteUri + this.Url);
         }
 
         public void Wait()

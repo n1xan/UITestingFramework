@@ -9,9 +9,9 @@ namespace TestingFramework
 {
     public interface IPage
     {
-        string Url { get; }
-
         IWebDriver Driver { get; set; }
+
+        string Url { get; }
 
         void Navigate();
 

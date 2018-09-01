@@ -3,3 +3,11 @@
 ################################################################################
 
 /.vs/SeleniumWebDriver/v15
+/.vs
+/GoogleUIBase/bin/Debug
+/GoogleUIBase/obj/Debug
+/GoogleUIBase/packages
+/SeleniumWebDriver/bin/Debug
+/SeleniumWebDriver/obj/Debug
+/SeleniumWebDriver/packages
+/packages

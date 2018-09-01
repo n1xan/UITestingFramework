@@ -1,9 +1,8 @@
 ﻿using System;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
 using OpenQA.Selenium;
 using TestingFramework;
 
-namespace GoogleUIBase.Base
+namespace SeleniumWebDriver
 {
     public class PageManager : IPageManager
     {
@@ -19,24 +18,25 @@ namespace GoogleUIBase.Base
             var page = new TPage();
             page.Driver = Driver;
             page.Wait();
-            Uri currentUri = new Uri(this.Driver.Url);
+            string currentUrl = this.Driver.Url.Substring(0,this.Driver.Url.IndexOf('?') > 0 ? this.Driver.Url.IndexOf('?') : this.Driver.Url.Length - 1);
+            string expectedUrl = page.Url;
 
-            if (currentUri.AbsolutePath == page.Url)
+            if (currentUrl == expectedUrl)
             {
                 return page;
             }
             else
             {
-                throw new Exception($"Expected page with URL: {page.Url} was not reached. Actual URL: {currentUri.AbsolutePath}");
-            }            
+                throw new Exception($"Expected page with URL: {expectedUrl} was not reached. Actual URL: {currentUrl}");
+            }
         }
 
-        public TPage CreatePage<TPage>(string baseUrl) where TPage : IPage, new()
+        public TPage CreatePage<TPage>() where TPage : IPage, new()
         {
             var page = new TPage();
             page.Driver = Driver;
 
-            Driver.Navigate().GoToUrl(baseUrl + page.Url);
+            Driver.Navigate().GoToUrl(page.Url);
             page.Wait();
 
             return page;

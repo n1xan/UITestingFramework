@@ -13,6 +13,6 @@ namespace TestingFramework
 
         T GetPage<T>() where T : IPage, new();
 
-        TPage CreatePage<TPage>(string baseUrl) where TPage : IPage, new();
+        TPage CreatePage<TPage>() where TPage : IPage, new();
     }
 }
